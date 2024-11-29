@@ -1,0 +1,16 @@
+Flask==3.0.3
+gunicorn==23.0.0
+keras==3.3.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+requests==2.32.3
+rich==13.8.1
+setuptools==75.1.0
+six==1.16.0
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+typing_extensions==4.12.2
+urllib3==2.2.3
+Werkzeug==3.0.4
+streamlit==1.39.0
